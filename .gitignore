@@ -1,4 +1,5 @@
 .vscode/
 node_modules/
+parsed/
 package-lock.json
 sem3 - Shortcut.lnk
